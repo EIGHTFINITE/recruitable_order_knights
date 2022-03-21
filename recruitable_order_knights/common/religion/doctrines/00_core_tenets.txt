@@ -115,6 +115,7 @@
 			great_holy_wars_active = yes
 			ghw_no_hof_conversion_buffs_active = yes
 			pilgrimage_decision_active = yes
+			unlock_maa_teutonic_knights_active = yes
 		}
 	}
 

@@ -1,0 +1,2 @@
+﻿l_english:
+ doctrine_parameter_unlock_maa_teutonic_knights_active:0 "Can recruit [GetMaA('teutonic_knights').GetName] as [men_at_arms|E]"
