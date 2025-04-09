@@ -1,0 +1,2 @@
+﻿l_german:
+ doctrine_parameter_cheaper_holy_wars_active: "Kann [GetMaA('teutonic_knights').GetName] als [men_at_arms|E] anwerben\n$EFFECT_LIST_BULLET$Es kostet [rulers|E] dieses [Concept('faith', 'Glaubens')|E] #P 20 %#! weniger [piety|E], um [Concept('holy_wars', 'Religionskriege')|E] zu erklären"

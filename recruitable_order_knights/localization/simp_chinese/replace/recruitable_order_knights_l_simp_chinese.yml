@@ -1,0 +1,2 @@
+﻿l_simp_chinese:
+ doctrine_parameter_cheaper_holy_wars_active: "可以招募[GetMaA('teutonic_knights').GetName][men_at_arms|E]\n$EFFECT_LIST_BULLET$该[faith|E]的[rulers|E]发动[holy_wars|E]的[piety|E]消耗减少#P -20%#!"

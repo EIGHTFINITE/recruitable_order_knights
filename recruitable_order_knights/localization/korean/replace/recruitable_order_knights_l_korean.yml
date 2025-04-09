@@ -1,0 +1,2 @@
+﻿l_korean:
+ doctrine_parameter_cheaper_holy_wars_active: "[GetMaA('teutonic_knights').GetName](을)를 [men_at_arms|E]으로 모병 가능\n$EFFECT_LIST_BULLET$이 [faith|E]을 믿는 [rulers|E]는 [holy_wars|E] 선포에 드는 [piety|E] 비용이 #P -20%#! 적어짐"

@@ -1,0 +1,2 @@
+﻿l_polish:
+ doctrine_parameter_cheaper_holy_wars_active: "Można rekrutować [Concept( 'men_at_arms', 'zbrojnych' )|E]: [GetMaA('teutonic_knights').GetName|l]\n$EFFECT_LIST_BULLET$[rulers|E] tej [Concept('faith','wiary')|E] potrzebują #P -20%#! mniej [Concept('piety', 'pobożności')|E], aby wypowiedzieć [Concept('holy_wars','święte wojny')|E]"

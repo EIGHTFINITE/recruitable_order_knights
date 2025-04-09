@@ -1,0 +1,2 @@
+﻿l_russian:
+ doctrine_parameter_cheaper_holy_wars_active: "Доступны [men_at_arms|El] — [GetMaA('teutonic_knights').GetName]\n$EFFECT_LIST_BULLET$[rulers|E] этой [faiths|El] тратят на #P 20%#! меньше [Concept( 'piety', 'благочестия' )|El], чтобы объявить [holy_wars|El]."

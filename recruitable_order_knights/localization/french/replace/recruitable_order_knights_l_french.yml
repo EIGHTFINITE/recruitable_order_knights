@@ -1,0 +1,2 @@
+﻿l_french:
+ doctrine_parameter_cheaper_holy_wars_active: "Peut recruter des [GetMaA('teutonic_knights').GetName] comme [men_at_arms|El]\n$EFFECT_LIST_BULLET$Il coûte aux [rulers|El] de cette [faith|El] #P -20%#! de moins de [piety|El] pour déclarer des [holy_wars|El]"
