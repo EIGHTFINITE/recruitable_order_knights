@@ -5,5 +5,5 @@ tags={
 	"Balance"
 }
 name="Recruitable Order Knights"
-supported_version="1.15.*"
+supported_version="1.*.*"
 remote_file_id="2782626004"
